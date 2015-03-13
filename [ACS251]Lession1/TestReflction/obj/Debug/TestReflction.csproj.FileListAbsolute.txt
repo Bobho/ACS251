@@ -1,0 +1,6 @@
+C:\Users\bobho\documents\visual studio 2012\Projects\[ACS251]Lession1\TestReflction\bin\Debug\TestReflction.exe.config
+C:\Users\bobho\documents\visual studio 2012\Projects\[ACS251]Lession1\TestReflction\bin\Debug\TestReflction.exe
+C:\Users\bobho\documents\visual studio 2012\Projects\[ACS251]Lession1\TestReflction\bin\Debug\TestReflction.pdb
+C:\Users\bobho\documents\visual studio 2012\Projects\[ACS251]Lession1\TestReflction\obj\Debug\TestReflction.exe
+C:\Users\bobho\documents\visual studio 2012\Projects\[ACS251]Lession1\TestReflction\obj\Debug\TestReflction.pdb
+C:\Users\bobho\documents\visual studio 2012\Projects\[ACS251]Lession1\TestReflction\obj\Debug\TestReflction.csprojResolveAssemblyReference.cache

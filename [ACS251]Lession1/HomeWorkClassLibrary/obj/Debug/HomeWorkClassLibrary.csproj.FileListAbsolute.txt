@@ -1,0 +1,5 @@
+C:\Users\bobho\documents\visual studio 2012\Projects\[ACS251]Lession1\HomeWorkClassLibrary\bin\Debug\HomeWorkClassLibrary.dll
+C:\Users\bobho\documents\visual studio 2012\Projects\[ACS251]Lession1\HomeWorkClassLibrary\bin\Debug\HomeWorkClassLibrary.pdb
+C:\Users\bobho\documents\visual studio 2012\Projects\[ACS251]Lession1\HomeWorkClassLibrary\obj\Debug\HomeWorkClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\bobho\documents\visual studio 2012\Projects\[ACS251]Lession1\HomeWorkClassLibrary\obj\Debug\HomeWorkClassLibrary.dll
+C:\Users\bobho\documents\visual studio 2012\Projects\[ACS251]Lession1\HomeWorkClassLibrary\obj\Debug\HomeWorkClassLibrary.pdb

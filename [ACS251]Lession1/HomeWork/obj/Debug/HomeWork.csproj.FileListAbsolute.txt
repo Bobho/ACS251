@@ -1,0 +1,9 @@
+C:\Users\bobho\documents\visual studio 2012\Projects\[ACS251]Lession1\HomeWork\bin\Debug\HomeWork.exe.config
+C:\Users\bobho\documents\visual studio 2012\Projects\[ACS251]Lession1\HomeWork\obj\Debug\HomeWork.csprojResolveAssemblyReference.cache
+C:\Users\bobho\documents\visual studio 2012\Projects\[ACS251]Lession1\HomeWork\obj\Debug\HomeWork.Form1.resources
+C:\Users\bobho\documents\visual studio 2012\Projects\[ACS251]Lession1\HomeWork\obj\Debug\HomeWork.Properties.Resources.resources
+C:\Users\bobho\documents\visual studio 2012\Projects\[ACS251]Lession1\HomeWork\obj\Debug\HomeWork.csproj.GenerateResource.Cache
+C:\Users\bobho\documents\visual studio 2012\Projects\[ACS251]Lession1\HomeWork\bin\Debug\HomeWork.exe
+C:\Users\bobho\documents\visual studio 2012\Projects\[ACS251]Lession1\HomeWork\bin\Debug\HomeWork.pdb
+C:\Users\bobho\documents\visual studio 2012\Projects\[ACS251]Lession1\HomeWork\obj\Debug\HomeWork.exe
+C:\Users\bobho\documents\visual studio 2012\Projects\[ACS251]Lession1\HomeWork\obj\Debug\HomeWork.pdb

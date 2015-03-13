@@ -1,0 +1,5 @@
+C:\Users\bobho\documents\visual studio 2012\Projects\[ACS251]Lession1\Test\bin\Debug\Test.dll
+C:\Users\bobho\documents\visual studio 2012\Projects\[ACS251]Lession1\Test\bin\Debug\Test.pdb
+C:\Users\bobho\documents\visual studio 2012\Projects\[ACS251]Lession1\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\bobho\documents\visual studio 2012\Projects\[ACS251]Lession1\Test\obj\Debug\Test.dll
+C:\Users\bobho\documents\visual studio 2012\Projects\[ACS251]Lession1\Test\obj\Debug\Test.pdb

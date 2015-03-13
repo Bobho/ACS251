@@ -1,0 +1,6 @@
+C:\Users\bobho\documents\visual studio 2012\Projects\[ACS251]Lession1\AppConfig\bin\Debug\AppConfig.exe.config
+C:\Users\bobho\documents\visual studio 2012\Projects\[ACS251]Lession1\AppConfig\bin\Debug\AppConfig.exe
+C:\Users\bobho\documents\visual studio 2012\Projects\[ACS251]Lession1\AppConfig\bin\Debug\AppConfig.pdb
+C:\Users\bobho\documents\visual studio 2012\Projects\[ACS251]Lession1\AppConfig\obj\Debug\AppConfig.csprojResolveAssemblyReference.cache
+C:\Users\bobho\documents\visual studio 2012\Projects\[ACS251]Lession1\AppConfig\obj\Debug\AppConfig.exe
+C:\Users\bobho\documents\visual studio 2012\Projects\[ACS251]Lession1\AppConfig\obj\Debug\AppConfig.pdb
