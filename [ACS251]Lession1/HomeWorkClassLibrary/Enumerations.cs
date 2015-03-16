@@ -6,12 +6,6 @@ using System.Threading.Tasks;
 
 namespace HomeWorkClassLibrary
 {
-    internal enum ClassName
-    {
-        HomeWorkClassLibrary = 0,
-        Enumerations = 1,
-    }
-
     internal enum Ticket
     {
         學生票 = 0,

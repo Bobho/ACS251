@@ -8,6 +8,12 @@ namespace Test
 {
     public class TestClass
     {
+        public enum ClassName
+        {
+            Ticket = 0,
+            ListTicket = 1,
+        }
+
         private string name = "My name is Bob.";
 
         public string Name { get { return name; } }

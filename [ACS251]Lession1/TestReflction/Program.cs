@@ -11,12 +11,17 @@ namespace TestReflction
     {
         private static void Main(string[] args)
         {
-            Assembly testAssembly = Assembly.LoadFile(@"C:\Users\bobho\Documents\visual studio 2012\Projects\[ACS251]Lession1\Test\bin\Debug\Test.dll");
+            Assembly testAssembly = Assembly.LoadFile(@"D:\GitHub\ACS251\[ACS251]Lession1\Test\bin\Debug\Test.dll");
+
+            Type enumType = testAssembly.GetType("Test.ClassName");
+            /*
             Type calcType = testAssembly.GetType("Test.TestClass");
             object calcInstance = Activator.CreateInstance(calcType);
             PropertyInfo numberPropertyInfo = calcType.GetProperty("Name");
             string value = (string)numberPropertyInfo.GetValue(calcInstance, null);
             Console.WriteLine(value);
+            */
+            Console.WriteLine(enumType.Name);
         }
     }
 }

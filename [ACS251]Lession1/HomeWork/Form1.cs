@@ -14,7 +14,8 @@ namespace HomeWork
 {
     public partial class Form1 : Form
     {
-        private string ticketDll;
+
+
         private MovieTicket movieTicket;
         private double totalCost;
         private double cost;
@@ -32,13 +33,7 @@ namespace HomeWork
 
         public void Start()
         {
-            ticketDll = ConfigurationManager.AppSettings["TicketDll"];
-            Assembly testAssembly = Assembly.LoadFile(@ticketDll);
-            Type calcType = testAssembly.GetType("HomeWorkClassLibrary.Enumerations");
-            object calcInstance = Activator.CreateInstance(calcType);
-            PropertyInfo numberPropertyInfo = calcType.GetProperty("listTicket");
-            List<string> value = (List<string>)numberPropertyInfo.GetValue(calcInstance, null);
-            TicketComboBox.Items.AddRange(value.ToArray());
+            TicketComboBox.Items.AddRange(new TicketList("TicketDll", "HomeWorkClassLibrary.Enumerations", "listTicket").TicketValue.ToArray());
             cost = price;
             StudentComboBox.Items.Add("test1");
             ChildComboBox.Items.Add("chileTest");

@@ -3,3 +3,8 @@ C:\Users\bobho\documents\visual studio 2012\Projects\[ACS251]Lession1\HomeWorkCl
 C:\Users\bobho\documents\visual studio 2012\Projects\[ACS251]Lession1\HomeWorkClassLibrary\obj\Debug\HomeWorkClassLibrary.csprojResolveAssemblyReference.cache
 C:\Users\bobho\documents\visual studio 2012\Projects\[ACS251]Lession1\HomeWorkClassLibrary\obj\Debug\HomeWorkClassLibrary.dll
 C:\Users\bobho\documents\visual studio 2012\Projects\[ACS251]Lession1\HomeWorkClassLibrary\obj\Debug\HomeWorkClassLibrary.pdb
+D:\GitHub\ACS251\[ACS251]Lession1\HomeWorkClassLibrary\bin\Debug\HomeWorkClassLibrary.dll
+D:\GitHub\ACS251\[ACS251]Lession1\HomeWorkClassLibrary\bin\Debug\HomeWorkClassLibrary.pdb
+D:\GitHub\ACS251\[ACS251]Lession1\HomeWorkClassLibrary\obj\Debug\HomeWorkClassLibrary.csprojResolveAssemblyReference.cache
+D:\GitHub\ACS251\[ACS251]Lession1\HomeWorkClassLibrary\obj\Debug\HomeWorkClassLibrary.dll
+D:\GitHub\ACS251\[ACS251]Lession1\HomeWorkClassLibrary\obj\Debug\HomeWorkClassLibrary.pdb
