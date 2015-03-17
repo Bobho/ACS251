@@ -20,8 +20,16 @@ namespace HomeWork
         {
             get
             {
-                BuildList();
+                ticketvalue = BuildList() as List<string>;
                 return ticketvalue;
+            }
+        }
+
+        public Dictionary<string, string[]> DictionaryClass
+        {
+            get
+            {
+                return BuildList() as Dictionary<string, string[]>;
             }
         }
 
@@ -32,14 +40,14 @@ namespace HomeWork
             this.propertyName = propertyName;
         }
 
-        public void BuildList()
+        public object BuildList()
         {
             ticketDll = ConfigurationManager.AppSettings[appSettingName];
             Assembly testAssembly = Assembly.LoadFile(@ticketDll);
             Type calcType = testAssembly.GetType(typeName);
             object calcInstance = Activator.CreateInstance(calcType);
             PropertyInfo numberPropertyInfo = calcType.GetProperty(propertyName);
-            ticketvalue = (List<string>)numberPropertyInfo.GetValue(calcInstance, null);
+            return numberPropertyInfo.GetValue(calcInstance, null);
         }
     }
 }

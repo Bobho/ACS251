@@ -17,24 +17,24 @@ namespace HomeWorkClassLibrary
     public class Enumerations
     {
         private string s;
-        private List<string> ListS;
+        private List<string> ticketList;
 
-        public List<string> listTicket
+        public List<string> TicketList
         {
             get
             {
                 GetList();
-                return ListS;
+                return ticketList;
             }
         }
 
         private void GetList()
         {
-            ListS = new List<string>();
+            ticketList = new List<string>();
             for (int i = 0; i < (int)Ticket.ALL; i++)
             {
                 s = Enum.GetName(typeof(Ticket), i);
-                ListS.Add(s);
+                ticketList.Add(s);
             }
         }
     }

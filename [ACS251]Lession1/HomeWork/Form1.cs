@@ -14,8 +14,6 @@ namespace HomeWork
 {
     public partial class Form1 : Form
     {
-
-
         private MovieTicket movieTicket;
         private double totalCost;
         private double cost;
@@ -24,6 +22,7 @@ namespace HomeWork
         private int ticketAmount;
         private double price = 100;
         private string appString;
+        private Dictionary<string, string[]> dictionartClass;
 
         public Form1()
         {
@@ -33,9 +32,11 @@ namespace HomeWork
 
         public void Start()
         {
-            TicketComboBox.Items.AddRange(new TicketList("TicketDll", "HomeWorkClassLibrary.Enumerations", "listTicket").TicketValue.ToArray());
+            dictionartClass = new TicketList("TicketDll", "HomeWorkClassLibrary.Index", "DictionaryClass").BuildList() as Dictionary<string, string[]>;
+            TicketComboBox.Items.AddRange(new TicketList(dictionartClass["TicketList"][0], dictionartClass["TicketList"][1], dictionartClass["TicketList"][2]).TicketValue.ToArray());
+            StudentComboBox.Items.Add("studentTest");
             cost = price;
-            StudentComboBox.Items.Add("test1");
+
             ChildComboBox.Items.Add("chileTest");
         }
 
