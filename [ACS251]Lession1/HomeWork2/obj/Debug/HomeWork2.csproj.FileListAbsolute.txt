@@ -1,0 +1,9 @@
+D:\GitHub\ACS251\[ACS251]Lession1\HomeWork2\bin\Debug\HomeWork2.exe.config
+D:\GitHub\ACS251\[ACS251]Lession1\HomeWork2\obj\Debug\HomeWork2.csprojResolveAssemblyReference.cache
+D:\GitHub\ACS251\[ACS251]Lession1\HomeWork2\obj\Debug\HomeWork2.Form1.resources
+D:\GitHub\ACS251\[ACS251]Lession1\HomeWork2\obj\Debug\HomeWork2.Properties.Resources.resources
+D:\GitHub\ACS251\[ACS251]Lession1\HomeWork2\obj\Debug\HomeWork2.csproj.GenerateResource.Cache
+D:\GitHub\ACS251\[ACS251]Lession1\HomeWork2\bin\Debug\HomeWork2.exe
+D:\GitHub\ACS251\[ACS251]Lession1\HomeWork2\bin\Debug\HomeWork2.pdb
+D:\GitHub\ACS251\[ACS251]Lession1\HomeWork2\obj\Debug\HomeWork2.exe
+D:\GitHub\ACS251\[ACS251]Lession1\HomeWork2\obj\Debug\HomeWork2.pdb
