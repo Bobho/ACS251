@@ -1,0 +1,12 @@
+c:\users\bobho\documents\visual studio 2012\Projects\[ACS251]Lession2\Practice1\bin\Debug\Practice1.exe.config
+c:\users\bobho\documents\visual studio 2012\Projects\[ACS251]Lession2\Practice1\obj\Debug\Practice1.csprojResolveAssemblyReference.cache
+c:\users\bobho\documents\visual studio 2012\Projects\[ACS251]Lession2\Practice1\obj\Debug\Practice1.Form1.resources
+c:\users\bobho\documents\visual studio 2012\Projects\[ACS251]Lession2\Practice1\obj\Debug\Practice1.Properties.Resources.resources
+c:\users\bobho\documents\visual studio 2012\Projects\[ACS251]Lession2\Practice1\obj\Debug\Practice1.csproj.GenerateResource.Cache
+c:\users\bobho\documents\visual studio 2012\Projects\[ACS251]Lession2\Practice1\bin\Debug\Practice1.exe
+c:\users\bobho\documents\visual studio 2012\Projects\[ACS251]Lession2\Practice1\bin\Debug\Practice1.pdb
+c:\users\bobho\documents\visual studio 2012\Projects\[ACS251]Lession2\Practice1\obj\Debug\Practice1.exe
+c:\users\bobho\documents\visual studio 2012\Projects\[ACS251]Lession2\Practice1\obj\Debug\Practice1.pdb
+D:\GitHub\ACS251\[ACS251]Lession2\Practice1\bin\Debug\Practice1.exe.config
+D:\GitHub\ACS251\[ACS251]Lession2\Practice1\obj\Debug\Practice1.exe
+D:\GitHub\ACS251\[ACS251]Lession2\Practice1\obj\Debug\Practice1.pdb
