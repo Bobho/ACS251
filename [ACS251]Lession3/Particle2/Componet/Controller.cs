@@ -24,7 +24,7 @@ namespace Particle2.Componet
             ActorList = new List<Actors>();
             this.model = model;
             MainForm = new PlayGameForm1(model, this);
-            model.OneAttackCompleted += (MainForm as PlayGameForm1).IsAttackedActor0;
+            model.OneAttackCompleted += (MainForm as PlayGameForm1).IsAttackedActor;
             model.OneAttackCompleted += (MainForm as PlayGameForm1).OnOneAttackCompleteUpdate;
             // model.attacker.AttacterInPlay += (MainForm as PlayGameForm1).IsAttackedActor0;
         }
@@ -53,17 +53,25 @@ namespace Particle2.Componet
             foreach (Actors o in model.allActorList)
                 if (o.Equals(actorID))
                 {
-                    if (!o.IsClick)
+                    if (o.LifeValue > 0)
                     {
-                        this.RegisterAttacker(o);
-                        MessageText = string.Format("{0}加入隊伍\n", o.Name);
-                        //o.IsClick = true;
+                        if (!o.IsClick)
+                        {
+                            this.RegisterAttacker(o);
+                            MessageText = string.Format("{0}加入隊伍\n", o.Name);
+                            //o.IsClick = true;
+                        }
+                        else
+                        {
+                            this.RemoveAttacker(o);
+                            MessageText = string.Format("{0}退出隊伍\n", o.Name);
+                            //o.IsClick = false;
+                        }
                     }
                     else
                     {
-                        this.RemoveAttacker(o);
-                        MessageText = string.Format("{0}退出隊伍\n", o.Name);
-                        //o.IsClick = false;
+                        MessageText = string.Format("{0}死了\n", o.Name);
+                        MessageText += string.Format("-----------------------------\n");
                     }
                 }
         }

@@ -61,13 +61,25 @@ namespace Particle2.Componet
             AttackEventArgs attackEventArgs = new AttackEventArgs(hurtValue, allActorList[ActorNumber].Name);
             allActorList[ActorNumber].BeAttacked(attackEventArgs);
             attacker.OnAttackerInPlay(attackEventArgs);
+            AttackedInfo();
+            if (this.allActorList[ActorNumber].LifeValue == 0)
+                if (this.allActorList[ActorNumber].IsClick)
+                {
+                    this.allActorList[ActorNumber].RemoveAttacker(attacker);
+                    MessageText += string.Format("{0}死了，退出隊伍\n", this.allActorList[ActorNumber].Name);
+                }
             MessageText += string.Format("第{0}回合結束\n", TotleChecks);
+            MessageText += string.Format("------------------------------\n");
             OnOneAttackCompleted(attackEventArgs);
         }
 
         public void IsAttackedActor()
         {
             ActorNumber = randomActor.Next(0, 4);
+        }
+
+        public void AttackedInfo()
+        {
             MessageText += this.allActorList[ActorNumber].ToString();
         }
     }

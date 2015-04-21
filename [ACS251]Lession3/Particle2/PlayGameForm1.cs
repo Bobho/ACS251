@@ -47,7 +47,7 @@ namespace Particle2
             model.MessageText = "";
         }
 
-        public void IsAttackedActor0(object sender, EventArgs e)
+        public void IsAttackedActor(object sender, EventArgs e)
         {
             for (int i = 0; i < controller.ActorList.Count; i++)
                 if (model.allActorList[model.ActorNumber].ID == controller.ActorList[i].ID)
