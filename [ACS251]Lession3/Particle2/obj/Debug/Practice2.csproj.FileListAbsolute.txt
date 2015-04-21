@@ -1,0 +1,9 @@
+D:\GitHub\ACS251\[ACS251]Lession3\Particle2\bin\Debug\Particle2.exe.config
+D:\GitHub\ACS251\[ACS251]Lession3\Particle2\obj\Debug\Practice2.csprojResolveAssemblyReference.cache
+D:\GitHub\ACS251\[ACS251]Lession3\Particle2\obj\Debug\Practice2.csproj.GenerateResource.Cache
+D:\GitHub\ACS251\[ACS251]Lession3\Particle2\bin\Debug\Particle2.exe
+D:\GitHub\ACS251\[ACS251]Lession3\Particle2\bin\Debug\Particle2.pdb
+D:\GitHub\ACS251\[ACS251]Lession3\Particle2\obj\Debug\Particle2.Properties.Resources.resources
+D:\GitHub\ACS251\[ACS251]Lession3\Particle2\obj\Debug\Particle2.exe
+D:\GitHub\ACS251\[ACS251]Lession3\Particle2\obj\Debug\Particle2.pdb
+D:\GitHub\ACS251\[ACS251]Lession3\Particle2\obj\Debug\Particle2.PlayGameForm1.resources
